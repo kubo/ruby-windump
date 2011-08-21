@@ -1,0 +1,5 @@
+windump_*
+pkg
+*~
+lib/windump_*.so
+lib/dbghelp.dll
